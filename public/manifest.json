@@ -1,0 +1,16 @@
+{
+  "name": "The Golden Fork",
+  "short_name": "The Golden Fork",
+  "description": "The Golden Fork - AI Generated Website",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
